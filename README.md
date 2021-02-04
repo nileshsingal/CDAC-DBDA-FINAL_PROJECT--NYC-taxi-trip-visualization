@@ -1,4 +1,4 @@
-# *Analysis of New York Yellow Taxi Trip Data*
+## *Analysis of New York Yellow Taxi Trip Data*
 
 ## Introduction of NYC Yellow Taxi: 
 - ### Yellow Taxis are the only vehicles licensed to pick up street-hailing passengers anywhere in NYC. 
