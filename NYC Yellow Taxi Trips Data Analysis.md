@@ -34,7 +34,7 @@ Variable Name | Description |
 - **The core objective of this project is to analyse the factors for demand for taxis, to find the most pickups, drop-offs of public based on their location, time of most traffic and how to overcome the needs of the public.**
 
 ## Architecture Diagram:<br>
-![](Images/arch_dig.png)
+![](https://github.com/nileshsingal/Analysis-Of-NYC-Yellow-Taxi-/blob/master/Images/arch_dig.png)
 
 ## Code to Get Raw Data from NYC website and store data in S3 bucket:
 [Dataingestion](https://github.com/bhavesh677/007/blob/Bhavesh-007/Final%20Project%2023/Code/dataingestion.sh)
