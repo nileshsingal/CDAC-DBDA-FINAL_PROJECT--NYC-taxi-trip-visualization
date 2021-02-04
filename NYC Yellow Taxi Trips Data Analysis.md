@@ -37,13 +37,13 @@ Variable Name | Description |
 ![](https://github.com/nileshsingal/Analysis-Of-NYC-Yellow-Taxi-/blob/master/Images/arch_dig.png)
 
 ## Code to Get Raw Data from NYC website and store data in S3 bucket:
-[Dataingestion](https://github.com/bhavesh677/007/blob/Bhavesh-007/Final%20Project%2023/Code/dataingestion.sh)
+[Dataingestion](https://github.com/nileshsingal/Analysis-Of-NYC-Yellow-Taxi-/blob/master/Code/dataingestion.sh)
 
 ## Code to Read Raw Data from S3 bucket and create Dataframe in PySpark, Perform Cleaning and Transformations, and Create Table in Hive:
-[PyScript](https://github.com/bhavesh677/007/blob/Bhavesh-007/Final%20Project%2023/Code/finalScript.py)
+[PyScript](https://github.com/nileshsingal/Analysis-Of-NYC-Yellow-Taxi-/blob/master/Code/finalScript.py)
 
 ## We have used AWS CloudFormation to automate above process
-[CloudFormation templet](https://github.com/bhavesh677/007/blob/Bhavesh-007/Final%20Project%2023/Code/CFT.json)
+[CloudFormation templet](https://github.com/nileshsingal/Analysis-Of-NYC-Yellow-Taxi-/blob/master/Code/CFT.json)
 
 ## - Then we connected Hive table with Tableau Public using Amazon EMR Hadoop Hive Connector
 
